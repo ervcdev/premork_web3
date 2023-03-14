@@ -1,0 +1,14 @@
+{
+  "name": "counter-dapp",
+  "version": "1.0.0",
+  "description": "primera dapp",
+  "main": "solidity, javascrip",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "Ervin Castro perez",
+  "license": "ISC"
+}
