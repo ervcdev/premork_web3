@@ -1,0 +1,4 @@
+# carpeta de node modules y demas
+node_modules
+artifacts
+cache
